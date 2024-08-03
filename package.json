@@ -1,6 +1,6 @@
 {
     "name": "whatsapp-link-generator",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A Chrome extension to generate WhatsApp links for sending same messages to multiple phone numbers.",
     "main": "popup.js",
     "scripts": {
