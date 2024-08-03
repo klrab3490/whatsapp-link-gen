@@ -64,4 +64,10 @@ button:hover {
     button:hover {
         background-color: #357a38;
     }
+    #links {
+        margin-top: 10px;
+    }
+    a {
+        color: #ffffff;
+    }
 }
