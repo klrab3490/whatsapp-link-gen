@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "WhatsApp Link Generator",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Generate WhatsApp links for payment requests",
     "permissions": ["activeTab", "tabs","storage"],
     "action": {
